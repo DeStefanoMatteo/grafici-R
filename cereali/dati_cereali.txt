@@ -1,0 +1,9 @@
+"cereali","calorie"
+"Misura Cornflakes",364
+"Kellog's Corn Flakes",378
+"Nesquik Cereali",369
+"Vitalis Muesli Croccante",491
+"Gran Cereale",393
+"Kellog's Extra",497
+"Nestlè Lion",408
+"Krave Milk Choco",440
