@@ -1,0 +1,7 @@
+"Facebook",470,97
+"Twitter",147,18
+"LinkedIn",112,28
+"Pinterest",392,36
+"Instagram",171,25
+"Reddit",154,17
+"Rai",96,4
