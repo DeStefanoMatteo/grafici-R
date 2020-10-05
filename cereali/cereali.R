@@ -8,8 +8,10 @@ windowsFonts("Helvetica Neue" = windowsFont("HelveticaNeue"))
 
 setwd("C:/.../cereali")
 
+# Carico dati
 data <- read.csv("dati_cereali.txt", header=TRUE)
 
+# Creo grafico
 cereali_plot <- data %>%
   arrange(-calorie) %>%
   mutate(cereali=factor(cereali, levels=cereali)) %>%
