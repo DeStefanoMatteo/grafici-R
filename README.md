@@ -6,4 +6,5 @@ Dove necessario è stato modificato il file .png con photoshop per creare l'imma
 ![](cereali/cereali.png)\
 ![](generazioni_italia/gen_ita.png)\
 <img src="https://raw.githubusercontent.com/DeStefanoMatteo/grafici-R/main/numero_favorito/numero_preferito.png" width="400">\
-![](pubblicità_social/pub_social.png)
+![](pubblicità_social/pub_social.png)\
+![](personalità_radar_chart/radar_chart.jpg)
